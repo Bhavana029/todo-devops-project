@@ -349,7 +349,7 @@ sudo kubectl rollout status deployment/todo-deployment
 
 **Bhavana Mekala**
 
-GitHub: https://github.com/<YOUR_GITHUB_USERNAME>
+GitHub: https://github.com/Bhavana029
 
 Docker Hub: https://hub.docker.com/r/bhavana029/todo-devops
 
